@@ -1,8 +1,4 @@
-.widget-details .visible {
-  display: block;
+body {
+  background: blue;
+  color: black;
 }
-
-.widget-details .hidden {
-  display: none;
-}
-
